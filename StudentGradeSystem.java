@@ -24,7 +24,8 @@ public class StudentGradeSystem {
 
             choice = sc.nextInt();
             sc.nextLine();
-
+            
+			// Added functionality to input and store student data
             if (choice == 1) {
 
                 System.out.print("Enter Student ID: ");
