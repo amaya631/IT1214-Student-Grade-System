@@ -20,7 +20,7 @@ public class StudentGradeSystem {
             System.out.println("3. Search Student by ID");
             System.out.println("4. Calculate Average Marks");
             System.out.println("5. Exit");
-            System.out.print("Enter your choice: ");
+            System.out.print("Enter your Choice: ");
 
             choice = sc.nextInt();
             sc.nextLine();
