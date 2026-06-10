@@ -93,7 +93,7 @@ public class StudentGradeSystem {
 
             } else {
 
-                System.out.println("Invalid choice!");
+                System.out.println("Choice is INVALID!");
             }
         }
 
