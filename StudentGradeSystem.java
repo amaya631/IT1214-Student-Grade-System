@@ -101,3 +101,5 @@ public class StudentGradeSystem {
         sc.close();
     }
 }
+
+//Tested and redy for submission
