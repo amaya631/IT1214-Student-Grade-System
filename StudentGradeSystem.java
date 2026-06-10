@@ -15,7 +15,7 @@ public class StudentGradeSystem {
         while (choice != 5) {
 
             System.out.println("\n== Student Grade Management System ==");
-            System.out.println("1. Add Student");
+            System.out.println("1. Add New Student");
             System.out.println("2. Display All Students");
             System.out.println("3. Search Student by ID");
             System.out.println("4. Calculate Average Marks");
