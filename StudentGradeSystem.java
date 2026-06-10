@@ -51,7 +51,7 @@ public class StudentGradeSystem {
                         System.out.println(s);
                     }
                 }
-
+            //search by student ID
             } else if (choice == 3) {
 
                 System.out.print("Enter Student ID: ");
@@ -70,7 +70,7 @@ public class StudentGradeSystem {
                 if (!found) {
                     System.out.println("Student not found.");
                 }
-
+            //Average marks calculation
             } else if (choice == 4) {
 
                 if (students.isEmpty()) {
